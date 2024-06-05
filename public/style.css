@@ -1,0 +1,32 @@
+body {
+    margin-left: 20px;
+    font-family: "Poppins";
+    font-style: normal;
+    background-color:#A0DEFF;
+}
+
+.chat {
+    background-color:aliceblue ;
+    padding: 20px;
+    border-radius: 16px;
+    display: inline-block;
+}
+.msg {
+    background-color: dodgerblue;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 15px;
+}
+h3 {
+    color: limegreen;
+    font-weight: 800;
+}
+
+button {
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    
+
+}
